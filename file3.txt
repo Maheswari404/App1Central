@@ -1,0 +1,4 @@
+File created in subbranchA
+
+modified in subbranchB
+Again
